@@ -1,5 +1,2 @@
-Images Directory.
-All your images should go here.
-Images must be names so that they are self-explantory, as much as possible.
-
-
+Here lies my images.
+All of the files names should correspond to what the image shows.
