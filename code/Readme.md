@@ -1,4 +1,4 @@
-Code Directory.
-All your code should go here. Make sure files are named as explicitly as possible.
+Code Directory!
+This is all my explicitly named files containing my wonderful code.
 
 
