@@ -1,3 +1,2 @@
-Documentation Directory.
-All your documentation should go here.
-
+This is my documentation directory.
+This is where you can find all my documentation.
